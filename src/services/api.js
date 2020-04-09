@@ -1,7 +1,7 @@
 export function loadLists() {
   return [
     {
-      title: "Tarefas",
+      title: "Tasks",
       creatable: true,
       cards: [
         {
@@ -12,8 +12,7 @@ export function loadLists() {
         },
         {
           id: 2,
-          content:
-            "Criar vídeo para o Youtube ensinando a recriar a interface do Pipefy",
+          content: "Recriar a interface do Pipefy",
           labels: ["#7159c1"],
           user: "https://api.adorable.io/avatars/285/abott@adorable.png",
         },
@@ -25,44 +24,43 @@ export function loadLists() {
         },
         {
           id: 4,
-          content:
-            'Gravar Aula "NextJS: Utilizando server-side rendering com ReactJS"',
+          content: "Terminar Backend Sinope",
           labels: ["#54e1f7"],
           user: "https://api.adorable.io/avatars/285/abott@adorable.png",
         },
         {
           id: 5,
-          content: "Gravar testes e deploy ReactJS",
+          content: "Fazer testes e deploy ReactJS",
           labels: ["#54e1f7"],
           user: "https://api.adorable.io/avatars/285/abott@adorable.png",
         },
       ],
     },
     {
-      title: "Fazendo",
+      title: "Doing",
       creatable: false,
       cards: [
         {
           id: 6,
-          content: "Recriando clone do Pipefy",
+          content: "Estudar Node Js, React js, React Native",
           labels: [],
           user: "https://api.adorable.io/avatars/285/abott@adorable.png",
         },
       ],
     },
     {
-      title: "Pausado",
+      title: "Stopped",
       creatable: false,
       cards: [
         {
           id: 7,
-          content: "Gravar sobre Geolocalização e mapas com React Native",
+          content: "Pesquisar sobre Geolocalização e mapas com React Native",
           labels: ["#7159c1"],
           user: "https://api.adorable.io/avatars/285/abott@adorable.png",
         },
         {
           id: 8,
-          content: "Gravar testes e deploy ReactJS",
+          content: "Fazer Deploy desta aplicação",
           labels: ["#54e1f7"],
           user: "https://api.adorable.io/avatars/285/abott@adorable.png",
         },
@@ -74,24 +72,23 @@ export function loadLists() {
       ],
     },
     {
-      title: "Concluído",
+      title: "Completed",
       creatable: false,
       done: true,
       cards: [
         {
           id: 10,
-          content: "Gravar aula sobre deploy e CI com React Native",
+          content: "Fazer a omnistack 11.0",
           labels: [],
         },
         {
           id: 12,
-          content: "Gravar testes e deploy ReactJS",
+          content: "Fazer o Frontend do Pipefy",
           labels: ["#54e1f7"],
         },
         {
           id: 13,
-          content:
-            'Gravar Aula "Internacionalização de aplicações Node.js, ReactJS e React Native"',
+          content: "Se especializar em JavasScript",
           labels: ["#7159c1"],
         },
       ],
