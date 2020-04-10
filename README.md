@@ -27,3 +27,23 @@
   <h3>Node Js</h3>
   
   <span>Coming Soon ...</span>
+
+ <h3 align="center">How to Install and Run using YARN ?</h3>
+
+  <ol>
+    <li>First make sure that <a href="https://nodejs.org/">noje Js</a> is installed on your machine</li>
+    <li>Open the console and write <code>yarn install</code></li>
+    <li>Then write <code>yarn start</code></li>
+    <li>Done !!!</li>
+  </ol>
+
+<h3 align="center">How to Install and Run using NPM ?</h3>
+
+  <ol>
+    <li>First make sure that <a href="https://nodejs.org/">noje Js</a> is installed on your machine</li>
+    <li>Open the console and write <code>npm install</code></li>
+    <li>Then write <code>npm run start</code></li>
+    <li>Done !!!</li>
+  </ol>
+  
+  <h5 align="center">Thank You !!!</h5>
