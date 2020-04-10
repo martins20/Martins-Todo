@@ -5,7 +5,7 @@
 # About
 
 <p align="justify">
-  Martin's Todo is an Site to make your routine more tasks with 4 collunms ( Task, Doing Stopped, Completed ). you can create a task and, if you are doing, just drag and drop this task in the "Doing" column or, if you have completed that task, just drag and drop in the "Done" column ... but if you want to stop and do it later, put that task in "Stoped" column.
+  Martin's Todo is an Site to make your routine more organized. You can create a task and, if you are doing, just drag and drop this task in the "Doing" column or, if you have completed that task, just drag and drop in the "Completed" column ... but if you want to stop and do it later, put that task in "Stoped" column.
  </p>
  
  ![GIF](./assets/Todo.gif)
